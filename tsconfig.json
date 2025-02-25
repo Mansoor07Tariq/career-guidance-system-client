@@ -45,5 +45,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ]
+  ],
+  "types": ["node", "jest", "@testing-library/jest-dom"],
+
 }
